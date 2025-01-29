@@ -26,5 +26,4 @@ Filmleri izleme listesine ekleme & çıkarma
 
 # 📸 GİF 
 
-https://github.com/user-attachments/assets/9f6ce7db-cc72-4e04-b79b-af984b73b8e2
 
