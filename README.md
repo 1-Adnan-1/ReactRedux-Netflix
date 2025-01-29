@@ -24,6 +24,9 @@ Filmleri izleme listesine ekleme & çıkarma
 - **@splidejs/splide** & **@splidejs/react-splide** – Kaydırma efekti
 - **millify** – Sayıları kısaltma
 
-# 📸 GİF 
+# 📸 GİF (3 Adet)
+- **ANA Sayfa** ![ZightRecording2025-01-29at02 46 36PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0ddf8e87-583c-41ae-8387-3179ffb90f82)
+- **DETAY Sayfası**![ZightRecording2025-01-29at02 51 51PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84ef1e70-6026-464c-acbe-b27f42f3f283)
+- **İZLEME sayfası**![ZightRecording2025-01-29at02 55 11PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/856089c6-802e-49c9-b2e0-0f16720b2d31)
 
 
